@@ -1,0 +1,5 @@
+C01;Udin;udin51;udin51;;customer
+C02;Fadhlur;fadhlur.udin86;oke;;customer
+P01;udinnn;udin;udin;alaudin@usk.ac.id;pelayan
+P02;Fadhlurrahman;udinhytam;udin;alaudin@usk.ac.id;koki
+P03;Alaudin;alaudin;udin;24alaudin@usk.ac.id;kasir

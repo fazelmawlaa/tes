@@ -1,0 +1,13 @@
+makanan;Mie Aceh;25000;Main Course;Sedang
+makanan;Mie Aceh Kepiting;45000;Main Course;Pedas
+makanan;Ayam Tangkap;35000;Main Course;Tidak pedas
+makanan;Kuah Pliek U;20000;Traditional;Tidak pedas
+makanan;Gulai Kambing Aceh;40000;Main Course;Sedang
+makanan;Sate Matang;30000;Main Course;Tidak pedas
+makanan;Sie Reuboh;30000;Traditional;Pedas
+makanan;Keumamah (Ikan Kayu);25000;Traditional;Sedang
+makanan;Timpan;12000;Dessert;Tidak pedas
+minuman;Kopi Aceh (Arabica Gayo);15000;Medium;Panas
+minuman;Teh Tarik Aceh;12000;Medium;Panas
+minuman;Jus Roti Canai Aceh;18000;Large;Dingin
+minuman;Es Timun Serut Aceh;10000;Large;Dingin

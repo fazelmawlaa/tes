@@ -1,0 +1,95 @@
+{
+  "menu": [
+    {
+      "jenis": "makanan",
+      "nama": "Mie Aceh",
+      "harga": 25000,
+      "kategori": "Main Course",
+      "tingkat_pedas": "Sedang"
+    },
+    {
+      "jenis": "makanan",
+      "nama": "Mie Aceh Kepiting",
+      "harga": 45000,
+      "kategori": "Main Course",
+      "tingkat_pedas": "Pedas"
+    },
+    {
+      "jenis": "makanan",
+      "nama": "Ayam Tangkap",
+      "harga": 35000,
+      "kategori": "Main Course",
+      "tingkat_pedas": "Tidak Pedas"
+    },
+    {
+      "jenis": "makanan",
+      "nama": "Gulai Kambing Aceh",
+      "harga": 40000,
+      "kategori": "Main Course",
+      "tingkat_pedas": "Sedang"
+    },
+    {
+      "jenis": "makanan",
+      "nama": "Kuah Pliek U",
+      "harga": 20000,
+      "kategori": "Traditional",
+      "tingkat_pedas": "Tidak Pedas"
+    },
+    {
+      "jenis": "makanan",
+      "nama": "Sie Reuboh",
+      "harga": 30000,
+      "kategori": "Traditional",
+      "tingkat_pedas": "Pedas"
+    },
+    {
+      "jenis": "makanan",
+      "nama": "Keumamah",
+      "harga": 25000,
+      "kategori": "Traditional",
+      "tingkat_pedas": "Sedang"
+    },
+    {
+      "jenis": "makanan",
+      "nama": "Timpan",
+      "harga": 12000,
+      "kategori": "Dessert",
+      "tingkat_pedas": "Tidak Pedas"
+    },
+    {
+      "jenis": "minuman",
+      "nama": "Kopi Gayo",
+      "harga": 15000,
+      "ukuran": "Medium",
+      "suhu": "Panas"
+    },
+    {
+      "jenis": "minuman",
+      "nama": "Teh Tarik Aceh",
+      "harga": 12000,
+      "ukuran": "Medium",
+      "suhu": "Panas"
+    },
+    {
+      "jenis": "minuman",
+      "nama": "Jus Roti Canai Aceh",
+      "harga": 18000,
+      "ukuran": "Large",
+      "suhu": "Dingin"
+    },
+    {
+      "jenis": "minuman",
+      "nama": "Es Timun Serut",
+      "harga": 10000,
+      "ukuran": "Large",
+      "suhu": "Dingin"
+    },
+    {
+      "jenis": "minuman",
+      "nama": "Es Teh",
+      "harga": 8000,
+      "ukuran": "Medium",
+      "suhu": "Dingin"
+    }
+  ]
+}

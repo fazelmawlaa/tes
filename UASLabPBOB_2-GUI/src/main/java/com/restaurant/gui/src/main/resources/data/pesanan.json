@@ -1,0 +1,71 @@
+{
+  "nextId": 12,
+  "pesanan": [
+    {
+      "id": 1,
+      "meja": 1,
+      "status": "LUNAS",
+      "items": [{"nama": "Mie Aceh", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 2,
+      "meja": 1,
+      "status": "LUNAS",
+      "items": [{"nama": "Mie Aceh Kepiting", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 3,
+      "meja": 1,
+      "status": "LUNAS",
+      "items": [{"nama": "Mie Aceh", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 4,
+      "meja": 1,
+      "status": "LUNAS",
+      "items": [{"nama": "Es Teh", "jumlah": 1, "catatan": ""}, {"nama": "Mie Aceh Kepiting", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 5,
+      "meja": 1,
+      "status": "LUNAS",
+      "items": [{"nama": "Mie Aceh", "jumlah": 1, "catatan": ""}, {"nama": "Mie Aceh Kepiting", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 6,
+      "meja": 2,
+      "status": "LUNAS",
+      "items": [{"nama": "Es Teh", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 7,
+      "meja": 1,
+      "status": "LUNAS",
+      "items": [{"nama": "Mie Aceh", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 8,
+      "meja": 1,
+      "status": "DIPROSES",
+      "items": [{"nama": "Mie Aceh", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 9,
+      "meja": 2,
+      "status": "SIAP DISAJIKAN",
+      "items": [{"nama": "Mie Aceh Kepiting", "jumlah": 1, "catatan": ""}, {"nama": "Es Teh", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 10,
+      "meja": 1,
+      "status": "DIPROSES",
+      "items": [{"nama": "Mie Aceh", "jumlah": 1, "catatan": ""}]
+    },
+    {
+      "id": 11,
+      "meja": 2,
+      "status": "DIPROSES",
+      "items": [{"nama": "Mie Aceh", "jumlah": 1, "catatan": ""}, {"nama": "Mie Aceh Kepiting", "jumlah": 1, "catatan": ""}]
+    }
+  ]
+}
