@@ -1,0 +1,3 @@
+{
+  "akun": [{"id": "P01", "nama": "q", "username": "q", "password": "q", "email": "q@usk.ac.id", "role": "Pelayan"}, {"id": "P02", "nama": 2, "username": 2, "password": 2, "email": "2@usk.ac.id", "role": "Pelayan"}, {"id": "P03", "nama": 1, "username": 1, "password": 1, "email": "1@usk.ac.id", "role": "Koki"}]
+}
